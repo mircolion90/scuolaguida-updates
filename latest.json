@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.0/ScuolaGuidaNativeSetup.exe",
+  "sha256": "9f968fe3a2138c356f67a25f8613c535a6cd4a568b36d8e213ba22aa03fb9748",
+  "notes": "Prima versione stabile di ScuolaGuida Gestionale.",
+  "mandatory": false
+}
