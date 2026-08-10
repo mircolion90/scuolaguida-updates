@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.1/ScuolaGuidaNativeSetup.exe",
-  "sha256": "cf1d22cdac6abeccba780faea79bcc5ba4019d4708cfbb97d935a1856e45f06b",
-  "notes": "Aggiunta la pagina Aggiornamenti per controllare e installare manualmente le nuove versioni anche dopo aver chiuso il popup automatico.",
+  "version": "1.0.2",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.2/ScuolaGuidaNativeSetup.exe",
+  "sha256": "6d45e9612f90f28e13ff6a6b54549335134a70574d3b5bbd875558e6dcceeaf1",
+  "notes": "Correzione della versione interna dell'installer per impedire la ripetizione continua della richiesta di aggiornamento.",
   "mandatory": false
 }
