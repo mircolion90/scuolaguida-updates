@@ -1,0 +1,7 @@
+{
+  "version": "1.0.3-test",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.3-test/ScuolaGuidaNativeSetup-1.0.3-test.exe",
+  "sha256": "9b16a8bcf2f1386eea64483df44a258a792c3adee91b2a312daad085a27dbd42",
+  "notes": "Collaudo isolato del nuovo sistema di aggiornamento.",
+  "mandatory": false
+}
