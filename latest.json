@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.9/ScuolaGuidaNativeSetup.exe",
-  "sha256": "97e00fcc43d8d7bc370f8556b57dd4e0ffd7dca8e1fd89a969e9447bfd49e3af",
-  "notes": "Aggiornamento del gestionale con sistema di aggiornamento automatico attivo. Dati e documenti esistenti vengono conservati.",
+  "version": "1.0.10",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.10/ScuolaGuidaNativeSetup.exe",
+  "sha256": "b3bd1ea585443e257e9dae41ad9f470771913ca7a340f4f684249332c6572ada",
+  "notes": "Correzione della gestione degli errori durante il ripristino dei backup. Dati e documenti esistenti vengono conservati.",
   "mandatory": false
 }
