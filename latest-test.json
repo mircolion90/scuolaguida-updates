@@ -1,7 +1,7 @@
 {
-  "version": "1.0.10",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.10/ScuolaGuidaNativeSetup.exe",
-  "sha256": "b3bd1ea585443e257e9dae41ad9f470771913ca7a340f4f684249332c6572ada",
-  "notes": "Canale separato per il collaudo degli aggiornamenti. Nessun aggiornamento di prova è ancora attivo.",
+  "version": "1.0.12",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.12-test/ScuolaGuidaNativeSetup.exe",
+  "sha256": "307cee4511b0fdfd9e193566c59bb4d26642c380bb5b7bbb46c203ee21108f4b",
+  "notes": "Collaudo separato dell'aggiornamento automatico dalla versione 1.0.11 alla 1.0.12. Dati e documenti esistenti vengono conservati.",
   "mandatory": false
 }
