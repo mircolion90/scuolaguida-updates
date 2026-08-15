@@ -1,7 +1,7 @@
 {
-  "version": "1.0.18",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.18/ScuolaGuidaNativeSetup.exe",
-  "sha256": "2b4aa03c14233b43d6c343426668ab4d24240bda116cfc1e0b3d1429d2556d22",
-  "notes": "Nuove funzioni riservate all’amministratore: eliminazione delle voci dello storico backup e ripristini e cancellazione definitiva degli istruttori già rimossi. Dati, documenti e backup esistenti vengono conservati.",
+  "version": "1.0.19",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.19/ScuolaGuidaNativeSetup.exe",
+  "sha256": "6d58091918b01d500c368f2591ed9b8b8a21bee0b72007c5408973315f0153d2",
+  "notes": "Aggiunto il sistema di licenza firmato con prova, licenza attiva e modalità sola lettura. Corretto l'accesso tramite Tailscale. Database, documenti, configurazioni e backup esistenti vengono conservati.",
   "mandatory": false
 }
