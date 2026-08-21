@@ -1,7 +1,7 @@
 {
-  "version": "1.0.21",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.21/ScuolaGuidaNativeSetup-1.0.21.exe",
-  "sha256": "577e4bc24156d44d95aa801e8e3f1cade6ce72d379dcadeb4c8db3e537def3f0",
-  "notes": "Aggiornamento 1.0.21: nuova icona ufficiale SG su installer, Desktop e menu Start; hardening privacy e documentazione; retention tecnica dei token scaduti. Database, documenti, configurazioni e backup esistenti vengono conservati.",
+  "version": "1.0.22",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.22/ScuolaGuidaNativeSetup-1.0.22.exe",
+  "sha256": "dadc688c2daa18b1d6ea3929a5f19d88cb80d2a8104914070c4ea7bdb34ced30",
+  "notes": "Aggiornamento 1.0.22: ScuolaGuida Professional con supporto multi-sede, workflow documenti/import, backup e diagnostica rafforzati, ricerca e viste salvate, hardening sicurezza/agenda e Portale Allievi incluso nell'installer nativo. Database, documenti, configurazioni e backup esistenti vengono conservati.",
   "mandatory": false
 }
