@@ -1,7 +1,7 @@
 {
-  "version": "1.0.22",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.22/ScuolaGuidaNativeSetup-1.0.22.exe",
-  "sha256": "dadc688c2daa18b1d6ea3929a5f19d88cb80d2a8104914070c4ea7bdb34ced30",
-  "notes": "Aggiornamento 1.0.22: ScuolaGuida Professional con supporto multi-sede, workflow documenti/import, backup e diagnostica rafforzati, ricerca e viste salvate, hardening sicurezza/agenda e Portale Allievi incluso nell'installer nativo. Database, documenti, configurazioni e backup esistenti vengono conservati.",
+  "version": "1.0.23",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.23/ScuolaGuidaNativeSetup-1.0.23.exe",
+  "sha256": "76b4f63266a08a90b28f76064a4e2c78dcca93cff8c0f7649fcfe8bf21c3bc82",
+  "notes": "Aggiornamento correttivo 1.0.23. Bug risolto nel flusso di aggiornamento durante il riavvio dei servizi: corretto il falso stato di connessione assente e impedita la possibile riproposizione della versione appena installata. Dati, documenti, configurazioni e backup esistenti vengono conservati.",
   "mandatory": false
 }
