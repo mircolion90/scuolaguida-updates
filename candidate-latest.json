@@ -1,0 +1,7 @@
+{
+  "version": "1.0.26-CANDIDATE",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.26-CANDIDATE/ScuolaGuidaNativeSetup-1.0.26-CANDIDATE.exe",
+  "sha256": "52c09b3111607846e82be0ed1ccdf18a0476344038f65c8a5bb36bede4af3031",
+  "notes": "Candidate di test per verificare la correzione del popup updater che poteva riproporre la stessa versione dopo un aggiornamento riuscito. Non destinata alla distribuzione stabile.",
+  "mandatory": false
+}
