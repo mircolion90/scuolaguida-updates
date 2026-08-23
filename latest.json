@@ -1,7 +1,7 @@
 {
-  "version": "1.0.24",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.24/ScuolaGuidaNativeSetup-1.0.24.exe",
-  "sha256": "c000fe0731d02ea95a0f84ebc593e60e9caaed1f98067afd60671a3b4ffca54e",
-  "notes": "ScuolaGuida 1.0.24. Nuovo Portale Allievi, miglioramenti alla gestione multi-sede e degli operatori, nuove funzioni per finanza, dashboard, documenti, checklist, backup e diagnostica. Migliorata la stabilità generale e corretti diversi problemi che potevano causare errori, blocchi o comportamenti anomali. Dati, documenti, configurazioni e backup esistenti vengono conservati.",
+  "version": "1.0.25",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.25/ScuolaGuidaNativeSetup-1.0.25.exe",
+  "sha256": "8ca4806d6c2e765ffaf4c2805aeb9011f39c19f92003febc54d67204da7f5b86",
+  "notes": "ScuolaGuida 1.0.25. Corretto l'accesso remoto sicuro al Portale Allievi, aggiunta la scansione antivirus reale dei documenti con Microsoft Defender e rafforzato il sistema di aggiornamento Windows. Migliorata la sicurezza e la stabilità generale. Dati, documenti, configurazioni e backup esistenti vengono conservati.",
   "mandatory": false
 }
