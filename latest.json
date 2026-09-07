@@ -1,7 +1,7 @@
 {
-  "version": "1.0.27",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.27/ScuolaGuidaNativeSetup-1.0.27.exe",
-  "sha256": "b5955cfb803d200b6223ae0f5c949bcd0a42bdfbf01a23578a4658c10517a18c",
-  "notes": "ScuolaGuida 1.0.27. Aggiunta connessione HTTPS locale tramite Caddy, supporto IA Groq con openai/gpt-oss-20b, recupero password via email, configurazione sicura post-installazione e miglioramenti all'upgrade in-place. Dati, licenza, configurazioni e backup esistenti vengono conservati.",
+  "version": "1.0.28",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.28/ScuolaGuidaNativeSetup-1.0.28.exe",
+  "sha256": "58fc976dc97331477c7a4e2a00a0bc4d8d12e5eef35f7fb4f3398edd68c2cfe3",
+  "notes": "ScuolaGuida 1.0.28. Hotfix per l'aggiornamento silenzioso da 1.0.26/1.0.27: HTTPS locale con Caddy viene attivato automaticamente. L'icona passa a https://localhost solo dopo verifica reale della connessione sicura. Dati, licenza, AI, email, configurazioni, upload e backup vengono conservati. HTTP localhost:8080 resta disponibile come fallback.",
   "mandatory": false
 }
