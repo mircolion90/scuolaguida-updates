@@ -1,7 +1,7 @@
 {
-  "version": "1.0.29",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.29/ScuolaGuidaNativeSetup-1.0.29.exe",
-  "sha256": "ea926f850ab8324f6f139c404f8fc0c70fc8821a9e89aceea684fffb6146ee84",
-  "notes": "ScuolaGuida 1.0.29. Migliorata la gestione HTTPS locale: se la porta 443 è occupata da software esterno, ScuolaGuida usa automaticamente una porta sicura alternativa senza interferire con altri programmi. Migliorati trust della CA locale, launcher, aggiornamento automatico e prevenzione dei popup duplicati. Preservati dati, licenza, AI, email, configurazioni, upload e backup.",
+  "version": "1.0.30",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.30/ScuolaGuidaNativeSetup-1.0.30.exe",
+  "sha256": "11d356c2cc52c7240e1403739e5d4a60abbb95e96678b23229af5f49ea17ebb6",
+  "notes": "ScuolaGuida 1.0.30. Primo avvio semplificato con proprietario/gestore generico. Rafforzata la sicurezza con permessi ACL più restrittivi e protezione dei file sensibili. Migliorata la gestione amministratore e delle licenze. Aggiunta la gestione della data di rilascio del foglio rosa. Preservati dati, licenza, configurazioni, documenti, upload e backup esistenti.",
   "mandatory": false
 }
