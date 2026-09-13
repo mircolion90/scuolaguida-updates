@@ -1,7 +1,7 @@
 {
-  "version": "1.0.30",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.30/ScuolaGuidaNativeSetup-1.0.30.exe",
-  "sha256": "11d356c2cc52c7240e1403739e5d4a60abbb95e96678b23229af5f49ea17ebb6",
-  "notes": "ScuolaGuida 1.0.30. Primo avvio semplificato con proprietario/gestore generico. Rafforzata la sicurezza con permessi ACL più restrittivi e protezione dei file sensibili. Migliorata la gestione amministratore e delle licenze. Aggiunta la gestione della data di rilascio del foglio rosa. Preservati dati, licenza, configurazioni, documenti, upload e backup esistenti.",
+  "version": "1.0.31",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.31/ScuolaGuidaNativeSetup-1.0.31.exe",
+  "sha256": "a87a06c923fe358aaedbcb77e5b4497031601ec55a06ecb27268b2ae5a5c59c4",
+  "notes": "ScuolaGuida Suite 1.0.31. Disaster recovery con recovery keys e restore offline sicuro. Export e anonimizzazione GDPR, report operativi e dashboard analitica. Notifiche email e push PWA. Pagamenti Stripe disponibili in sandbox. Miglioramenti HTTPS e multi-postazione, hardening AI/privacy, sicurezza, stabilità e guardie installer. Upgrade reale 1.0.30 → 1.0.31 collaudato con successo. Installer unsigned: Windows può mostrare Autore sconosciuto.",
   "mandatory": false
 }
