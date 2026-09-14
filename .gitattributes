@@ -1,0 +1,8 @@
+# Preserve LF for the signed update manifest and its detached signature.
+# latest.json.sig is a detached signature over the EXACT bytes of latest.json;
+# any CRLF<->LF conversion would change those bytes and invalidate the signature.
+# Scoped to these specific files only — no global rules, so licenses.json and
+# every other tracked file keep their existing storage untouched.
+latest.json text eol=lf
+latest.json.sig text eol=lf
+.gitattributes text eol=lf
