@@ -1,7 +1,7 @@
 {
-  "version": "1.0.32",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.32/ScuolaGuidaNativeSetup-1.0.32.exe",
-  "sha256": "8b1c496aaa9948d8ad647e4528bca1f5a55d086250279b3c8baa9d6341e17fd3",
-  "notes": "ScuolaGuida Suite 1.0.32. Backup portatile cifrato .sgbackup e restore offline sicuro. Miglioramenti diagnostica/supporto, risultati esami, HTTPS/LAN, sicurezza e stabilità. Upgrade 1.0.31 -> 1.0.32 collaudato con successo. Installer unsigned: Windows può mostrare Autore sconosciuto.",
+  "version": "1.2.0",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.2.0/ScuolaGuidaNativeSetup-1.2.0.exe",
+  "sha256": "e076d8920767c0c3fec5cdc83b905ca8a614d279f872045764e03423a6500d32",
+  "notes": "ScuolaGuida Suite 1.2.0. Integrazione WhatsApp Business con promemoria automatici e invio manuale tramite template approvati, consenso GDPR dedicato e coda persistente anti-duplicazione. Miglioramenti Demo, aggiornamenti, sicurezza e stabilita. Upgrade 1.0.32 -> 1.2.0 collaudato con successo. Installer unsigned: Windows puo mostrare Autore sconosciuto.",
   "mandatory": false
 }
