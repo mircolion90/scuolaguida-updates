@@ -1,7 +1,7 @@
 {
-  "version": "1.11.0",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.11.0/ScuolaGuidaNativeSetup-1.11.0.exe",
-  "sha256": "7f09d7c8ff3ecf2d612585ecd0622f74f8056fd4a88d6f8014694f43dde8c113",
-  "notes": "ScuolaGuida Suite 1.11.0. Nuovo design premium condiviso tra Gestionale e Portale Allievo, interfaccia piu fluida e responsive, QuickPanel corretto, miglioramenti a dashboard, navigazione, accessibilita e tema chiaro/scuro. Portale Allievo disponibile tramite HTTPS locale Caddy. Miglioramenti generali di stabilita e sicurezza. Installer unsigned: Windows puo mostrare Autore sconosciuto.",
+  "version": "1.2.0",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.2.0/ScuolaGuidaNativeSetup-1.2.0.exe",
+  "sha256": "e076d8920767c0c3fec5cdc83b905ca8a614d279f872045764e03423a6500d32",
+  "notes": "ScuolaGuida Suite 1.2.0. Integrazione WhatsApp Business con promemoria automatici e invio manuale tramite template approvati, consenso GDPR dedicato e coda persistente anti-duplicazione. Miglioramenti Demo, aggiornamenti, sicurezza e stabilita. Upgrade 1.0.32 -> 1.2.0 collaudato con successo. Installer unsigned: Windows puo mostrare Autore sconosciuto.",
   "mandatory": false
 }
