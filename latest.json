@@ -1,7 +1,7 @@
 {
-  "version": "1.0.32",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.0.32/ScuolaGuidaNativeSetup-1.0.32.exe",
-  "sha256": "8b1c496aaa9948d8ad647e4528bca1f5a55d086250279b3c8baa9d6341e17fd3",
-  "notes": "ScuolaGuida Suite 1.0.32. Backup portatile cifrato .sgbackup e restore offline sicuro. Miglioramenti diagnostica/supporto, risultati esami, HTTPS/LAN, sicurezza e stabilità. Upgrade 1.0.31 -> 1.0.32 collaudato con successo. Installer unsigned: Windows può mostrare Autore sconosciuto.",
+  "version": "1.11.0",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.11.0/ScuolaGuidaNativeSetup-1.11.0.exe",
+  "sha256": "7f09d7c8ff3ecf2d612585ecd0622f74f8056fd4a88d6f8014694f43dde8c113",
+  "notes": "ScuolaGuida Suite 1.11.0. Nuovo design premium condiviso tra Gestionale e Portale Allievo, interfaccia piu fluida e responsive, QuickPanel corretto, miglioramenti a dashboard, navigazione, accessibilita e tema chiaro/scuro. Portale Allievo disponibile tramite HTTPS locale Caddy. Miglioramenti generali di stabilita e sicurezza. Installer unsigned: Windows puo mostrare Autore sconosciuto.",
   "mandatory": false
 }
