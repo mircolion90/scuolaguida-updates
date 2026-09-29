@@ -1,7 +1,8 @@
 {
-  "version": "1.11.2",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.11.2/ScuolaGuidaNativeSetup-1.11.2.exe",
-  "sha256": "49ae5b7ad48887344d85fee5bada7d66f0dab187dc661d4ee344b7fe48bcea8c",
-  "notes": "Portale Allievo:\n- I link e i QR locali ora utilizzano HTTPS tramite https://localhost:8444 quando il Portale sicuro è attivo.\n- Migliorata la gestione dell'indirizzo locale senza modificare gli URL pubblici configurati.\n\nAggiornamenti:\n- Nuova interfaccia premium e più ordinata per gli aggiornamenti.\n- Nuova sezione Novità di questa versione con contenuti raggruppati.\n- Barra di download basata sui byte realmente scaricati.\n- Durante l'installazione viene mostrato uno stato indeterminato senza percentuali simulate.\n\nStabilità e sicurezza:\n- Migliorati i controlli dell'updater e la gestione del ripristino.\n- Dati, documenti, licenza e configurazioni vengono preservati durante l'aggiornamento.",
+  "version": "1.15.0",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.15.0/ScuolaGuidaNativeSetup-1.15.0.exe",
+  "sha256": "4c69a421dd3322854cda066da0834ea04857755cced2d35294b78db3d8fb21c2",
+  "releaseDate": "2026-09-29",
+  "notes": "Novità della versione 1.15.0:\n- Supporto alla licenza perpetua con verifica locale e funzionamento offline.\n- Migliorata la gestione degli aggiornamenti inclusi nel periodo di manutenzione.\n- Installazione automatica del Microsoft Visual C++ Runtime quando necessario.\n- Ripresa automatica dell'installazione dopo un riavvio richiesto da Windows.\n- Installer alleggerito e migliorato.\n- Miglioramenti generali di stabilità, sicurezza e distribuzione.",
   "mandatory": false
 }
