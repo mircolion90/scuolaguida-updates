@@ -1,8 +1,8 @@
 {
-  "version": "1.15.2",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.15.2/ScuolaGuidaNativeSetup-1.15.2.exe",
-  "sha256": "e7846f25ccb0627eb305bf7930a1c5f2fa60c5bd7545352a689f1bf653c39ce4",
-  "notes": "ScuolaGuida Suite 1.15.2: Assistente AI locale sperimentale incluso (funziona sul PC senza cloud; consigliati 8 GB di RAM e CPU con AVX2; le risposte possono contenere errori). Correzioni di sicurezza e affidabilità: dati e chiave della CA locale accessibili solo agli amministratori, 2FA con codici monouso, aggiornamenti fino a 30 minuti con ripristino automatico, avvio senza VBScript, ripristino offline e backup più robusti. Installer di circa 1,36 GB. Dalla 1.15.0/1.15.1 l'aggiornamento automatico non è possibile: aggiornare una volta a mano.",
+  "version": "1.15.3",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.15.3/ScuolaGuidaNativeSetup-1.15.3.exe",
+  "sha256": "64e5f0112beea6c6b838d19170909a221b0ecb63dabfb46381f8771c87980552",
+  "notes": "ScuolaGuida Suite 1.15.3: correzione dell'Assistente AI locale sperimentale. Le installazioni provenienti da versioni precedenti alla 1.15 che restavano collegate a Ollama passano automaticamente all'IA locale integrata; le configurazioni scelte dall'amministratore (Ollama con URL o modello, provider cloud, LM Studio) restano invariate. Modello e prestazioni dell'IA invariati. Installer di circa 1,36 GB. Dalla 1.15.0/1.15.1 l'aggiornamento automatico non è possibile: aggiornare una volta a mano.",
   "mandatory": false,
   "releaseDate": "2026-10-06"
 }
