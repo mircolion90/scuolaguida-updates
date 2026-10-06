@@ -1,7 +1,8 @@
 {
-  "version": "1.15.1",
-  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.15.1/ScuolaGuidaNativeSetup-1.15.1.exe",
-  "sha256": "b4376e3e522998ba64799567ce028404b4700cec268bcbc3b8c3662ca0f2aeb1",
-  "notes": "Hotfix: corretto il recupero password riallineando automaticamente APP_PUBLIC_URL alla porta HTTPS attiva e rimuovendo le vecchie origini HTTPS locali.",
-  "mandatory": false
+  "version": "1.15.2",
+  "url": "https://github.com/mircolion90/scuolaguida-updates/releases/download/v1.15.2/ScuolaGuidaNativeSetup-1.15.2.exe",
+  "sha256": "e7846f25ccb0627eb305bf7930a1c5f2fa60c5bd7545352a689f1bf653c39ce4",
+  "notes": "ScuolaGuida Suite 1.15.2: Assistente AI locale sperimentale incluso (funziona sul PC senza cloud; consigliati 8 GB di RAM e CPU con AVX2; le risposte possono contenere errori). Correzioni di sicurezza e affidabilità: dati e chiave della CA locale accessibili solo agli amministratori, 2FA con codici monouso, aggiornamenti fino a 30 minuti con ripristino automatico, avvio senza VBScript, ripristino offline e backup più robusti. Installer di circa 1,36 GB. Dalla 1.15.0/1.15.1 l'aggiornamento automatico non è possibile: aggiornare una volta a mano.",
+  "mandatory": false,
+  "releaseDate": "2026-10-06"
 }
